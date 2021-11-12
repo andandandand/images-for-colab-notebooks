@@ -1,0 +1,73 @@
+ORDER_ID_PSEUDONYM;SUM(QUANTITY);YEAR(ORDER_DATE);State;Price
+1;2;2018;Hawaii;$44
+2;3;2019;California;$43
+3;4;2018;Massachusetts;$84
+4;5;2019;New York;$15
+5;7;2019;Colorado;$35
+6;8;2019;Connecticut;$69
+7;1;2019;Utah;$15
+8;8;2018;Oregon;$99
+9;2;2019;Florida;$12
+10;3;2018;Rhode Island;$17
+11;4;2019;Washington;$100
+12;5;2019;New Jersey;$68
+13;7;2019;Virginia;$18
+14;8;2019;Maryland;$89
+15;1;2018;Montana;$54
+16;8;2019;Texas;$13
+17;2;2018;Nevada;$60
+18;3;2019;Arizona;$63
+19;4;2019;Idaho;$69
+20;5;2019;Alaska;$16
+21;7;2019;Delaware;$59
+22;8;2018;Wyoming;$91
+23;1;2019;New Hampshire;$10
+24;8;2018;Vermont;$64
+25;2;2019;North Carolina;$42
+26;3;2019;South Carolina;$93
+27;4;2019;Minnesota;$12
+28;5;2019;Illinois;$42
+29;7;2018;Georgia;$79
+30;8;2019;Maine;$36
+31;1;2018;New Mexico;$11
+32;8;2019;Tennessee;$76
+33;2;2019;South Dakota;$30
+34;3;2019;North Dakota;$12
+35;4;2019;Louisiana;$95
+36;5;2018;Pennsylvania;$94
+37;7;2019;Wisconsin;$92
+38;8;2018;Nebraska;$54
+39;1;2019;Alabama;$98
+40;8;2019;Kentucky;$29
+41;2;2019;Oklahoma;$78
+42;3;2019;Michigan;$63
+43;4;2018;Iowa;$93
+44;5;2019;Missouri;$14
+45;7;2018;Mississippi;$59
+46;8;2019;Arkansas;$92
+47;1;2019;Ohio;$29
+1;8;2019;West Virginia;$23
+2;2;2019;Kansas;$25
+3;3;2018;Indiana;$15
+4;4;2019;;
+5;5;2018;;
+6;7;2019;;
+7;8;2019;;
+8;1;2019;;
+9;8;2019;;
+10;2;2018;;
+11;3;2019;;
+12;4;2018;;
+13;5;2019;;
+14;7;2019;;
+15;8;2019;;
+16;1;2019;;
+17;8;2018;;
+18;2;2019;;
+19;3;2018;;
+20;4;2019;;
+21;5;2019;;
+22;7;2019;;
+23;8;2019;;
+24;1;2019;;
+25;8;2019;;
